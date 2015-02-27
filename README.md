@@ -5,7 +5,7 @@ by emax
 
 the json directory contains unofficial data dumps from the confer system
 
-the csv directory contains official CSV dumps
+the csv directory contains official CSV dumps from PCS.
 
 
 
